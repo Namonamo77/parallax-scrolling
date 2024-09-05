@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Exo 2", sans-serif;
+    
+}
+
+
+.light-bg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+.demowrapper {
+    height: 100vh;
+    background: #EF80B1;
+}
